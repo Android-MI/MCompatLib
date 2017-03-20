@@ -1,5 +1,5 @@
 # MCompatLib
-个人项目使用 . https://git.oschina.net/mi.rufeng/MCompatLib.git
+个人项目使用 . https://github.com/Android-MI/MCompatLib
 
 用到了各位大神的作品,感谢作者!!!
 # 1:GradientTabStrip
