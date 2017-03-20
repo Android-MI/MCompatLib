@@ -1,5 +1,5 @@
 # MCompatLib
-个人项目使用 . https://github.com/Android-MI/MCompatLib
+个人项目使用 . https://git.oschina.net/mi.rufeng/MCompatLib.git
 
 用到了各位大神的作品,感谢作者!!!
 # 1:GradientTabStrip
@@ -56,3 +56,4 @@ tabStrip.bindViewPager(viewPager);
 
 # 2:OkGo
 ## 感谢作者：jeasonlzy（廖子尧）Github地址：https://github.com/jeasonlzy0216
+personal use
